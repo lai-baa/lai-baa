@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning software engineering at App Academy.
+
 <!--
 **lai-baa/lai-baa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
